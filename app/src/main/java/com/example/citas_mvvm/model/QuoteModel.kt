@@ -1,0 +1,6 @@
+package com.example.citas_mvvm.model
+
+data class QuoteModel(
+    val quote: String,
+    val author: String
+)
